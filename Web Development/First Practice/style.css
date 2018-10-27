@@ -1,0 +1,30 @@
+img { 
+    height: 50px; 
+    opacity: 0.5;
+}
+
+body {
+    background-color: lightcyan; 
+    color: white;
+    background-image: url(./images/the-natural-scenery-3070808_960_720.jpg); 
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.5)
+}
+main {
+    text-align: right;
+}
+
+a { 
+    color: white;
+}
+
+h1{ 
+    font-size: 40px; 
+    font-family: 'Mali', cursive;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
